@@ -1,0 +1,17 @@
+.modal_area {
+    position: absolute;
+    z-index: 10;
+    top: 200px;
+    left: 0;
+    right: 0;
+    align-self: center;
+    width: 80vw;
+    height: 800px;
+    background-color: white;
+    padding-right: 50px;
+    padding-top: 50px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
